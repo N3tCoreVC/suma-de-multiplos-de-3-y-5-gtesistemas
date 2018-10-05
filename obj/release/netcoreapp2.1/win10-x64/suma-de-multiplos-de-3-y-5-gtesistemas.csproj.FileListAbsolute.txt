@@ -1,0 +1,14 @@
+C:\Users\Juan Osuna Velarde.JP\Documents\Mediconet\suma-de-multiplos-de-3-y-5-gtesistemas\bin\release\netcoreapp2.1\win10-x64\hostpolicy.dll
+C:\Users\Juan Osuna Velarde.JP\Documents\Mediconet\suma-de-multiplos-de-3-y-5-gtesistemas\bin\release\netcoreapp2.1\win10-x64\hostfxr.dll
+C:\Users\Juan Osuna Velarde.JP\Documents\Mediconet\suma-de-multiplos-de-3-y-5-gtesistemas\bin\release\netcoreapp2.1\win10-x64\suma-de-multiplos-de-3-y-5-gtesistemas.exe
+C:\Users\Juan Osuna Velarde.JP\Documents\Mediconet\suma-de-multiplos-de-3-y-5-gtesistemas\bin\release\netcoreapp2.1\win10-x64\suma-de-multiplos-de-3-y-5-gtesistemas.deps.json
+C:\Users\Juan Osuna Velarde.JP\Documents\Mediconet\suma-de-multiplos-de-3-y-5-gtesistemas\bin\release\netcoreapp2.1\win10-x64\suma-de-multiplos-de-3-y-5-gtesistemas.runtimeconfig.json
+C:\Users\Juan Osuna Velarde.JP\Documents\Mediconet\suma-de-multiplos-de-3-y-5-gtesistemas\bin\release\netcoreapp2.1\win10-x64\suma-de-multiplos-de-3-y-5-gtesistemas.runtimeconfig.dev.json
+C:\Users\Juan Osuna Velarde.JP\Documents\Mediconet\suma-de-multiplos-de-3-y-5-gtesistemas\bin\release\netcoreapp2.1\win10-x64\suma-de-multiplos-de-3-y-5-gtesistemas.dll
+C:\Users\Juan Osuna Velarde.JP\Documents\Mediconet\suma-de-multiplos-de-3-y-5-gtesistemas\bin\release\netcoreapp2.1\win10-x64\suma-de-multiplos-de-3-y-5-gtesistemas.pdb
+C:\Users\Juan Osuna Velarde.JP\Documents\Mediconet\suma-de-multiplos-de-3-y-5-gtesistemas\obj\release\netcoreapp2.1\win10-x64\suma-de-multiplos-de-3-y-5-gtesistemas.csprojAssemblyReference.cache
+C:\Users\Juan Osuna Velarde.JP\Documents\Mediconet\suma-de-multiplos-de-3-y-5-gtesistemas\obj\release\netcoreapp2.1\win10-x64\suma-de-multiplos-de-3-y-5-gtesistemas.csproj.CoreCompileInputs.cache
+C:\Users\Juan Osuna Velarde.JP\Documents\Mediconet\suma-de-multiplos-de-3-y-5-gtesistemas\obj\release\netcoreapp2.1\win10-x64\suma-de-multiplos-de-3-y-5-gtesistemas.AssemblyInfoInputs.cache
+C:\Users\Juan Osuna Velarde.JP\Documents\Mediconet\suma-de-multiplos-de-3-y-5-gtesistemas\obj\release\netcoreapp2.1\win10-x64\suma-de-multiplos-de-3-y-5-gtesistemas.AssemblyInfo.cs
+C:\Users\Juan Osuna Velarde.JP\Documents\Mediconet\suma-de-multiplos-de-3-y-5-gtesistemas\obj\release\netcoreapp2.1\win10-x64\suma-de-multiplos-de-3-y-5-gtesistemas.dll
+C:\Users\Juan Osuna Velarde.JP\Documents\Mediconet\suma-de-multiplos-de-3-y-5-gtesistemas\obj\release\netcoreapp2.1\win10-x64\suma-de-multiplos-de-3-y-5-gtesistemas.pdb
